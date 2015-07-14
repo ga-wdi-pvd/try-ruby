@@ -22,6 +22,7 @@ For example:
 In JavaScript, 0 is a falsey value, but 0 is a truthy value in Ruby.
 
 ```rb
+# ruby
 number = 0
 if number
   puts "0 is truthy"
@@ -29,6 +30,7 @@ end
 ```
 
 ```js
+// javascript
 number = 0
 if(!number){
   console.log("0 is falsey)"
