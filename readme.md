@@ -31,8 +31,8 @@ end
 
 ```js
 // javascript
-number = 0
+var number = 0;
 if(!number){
-  console.log("0 is falsey)"
+  console.log("0 is falsey");
 }
 ```
