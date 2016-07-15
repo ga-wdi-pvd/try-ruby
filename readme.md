@@ -1,38 +1,11 @@
 # Try Ruby
 
-Please complete the first 3 levels of Try Ruby - http://tryruby.org/
+Please read the Chapters 0 - 8 of [Chris Pine's Learn to Program](https://pine.fm/LearnToProgram/)
 
 ## Deliverables
 
-Please open an issue on this repository, and choose one programming concept to discuss, 
-including but not limited to:
+Create an Issue on this repo containing the following:
 
-- conditionals
-- truthy/falsey
-- for loops
-- functions/methods
-- complex data types
-
-and compare and contrast their JavaScript and Ruby implementations.
-
-For example:
-
-### Truthy/Falsey
-
-In JavaScript, 0 is a falsey value, but 0 is a truthy value in Ruby.
-
-```rb
-# ruby
-number = 0
-if number
-  puts "0 is truthy"
-end
-```
-
-```js
-// javascript
-var number = 0;
-if(!number){
-  console.log("0 is falsey");
-}
-```
+- List 3 differences between Ruby and Javascript
+- List 3 simililarities between Ruby and Javascript
+- What are your thoughts on ruby so far?(2-3 sentences)
