@@ -12,18 +12,20 @@ Create a pull request on this repo and fill out the following sections:
 
 List **three** differences between Ruby and Javascript
 
-```ruby
-# your answer here
-```
+ruby: 
+== true
+nil
+defining functions are different
+
+javascript: 
+=== true
+null
+the syntax is different
 
 List **three** similarities between Ruby and Javascript
 
-```ruby
-# your answer here
-```
+they both have arrays
 
 What are your thoughts on ruby so far? **(2-3 sentences)**
 
-```ruby
-# your answer here
-```
+I think ruby is clean and straightforward so far
