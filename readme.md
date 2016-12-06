@@ -13,17 +13,17 @@ Create a pull request on this repo and fill out the following sections:
 List **three** differences between Ruby and Javascript
 
 ```ruby
-# your answer here
+Ruby seems to be a little easier to read in english. also easier to open external files
 ```
 
 List **three** similarities between Ruby and Javascript
 
 ```ruby
-# your answer here
+They both have similiar data types, expressions and they use methods
 ```
 
 What are your thoughts on ruby so far? **(2-3 sentences)**
 
 ```ruby
-# your answer here
+So far Ruby seems to be easier than Javascript to do certain things. Like in the tryruby.com tutorial it seems easy to open and change an exernal file.
 ```
