@@ -13,17 +13,19 @@ Create a pull request on this repo and fill out the following sections:
 List **three** differences between Ruby and Javascript
 
 ```ruby
-# your answer here
+gets.chomp, every method can be written .+ or .whatever, puts vs log
 ```
 
 List **three** similarities between Ruby and Javascript
 
 ```ruby
-# your answer here
+math operations, both serious programming languages,
 ```
 
 What are your thoughts on ruby so far? **(2-3 sentences)**
 
 ```ruby
-# your answer here
+It seems a little more complicated than I thought, although it's not even the first day yet.
+Excited to learn and can't wait until I undeerstand why others think Ruby is beautiful.
+
 ```
